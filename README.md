@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="display: inline-block; vertical-align: middle; text-align: left; margin-right: 20px;">
+  <span style="display: inline-block; vertical-align: middle; margin-right: 20px;">
     <h1>Welcome to miHav3n's GitHub page</h1>
   </span>
   <span style="display: inline-block; vertical-align: middle;">
